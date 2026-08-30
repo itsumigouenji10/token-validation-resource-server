@@ -1,0 +1,9 @@
+# Never commit private keys, public keys, or minted tokens
+*.pem
+token.txt
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
